@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="one_grid_unit">8dp</dimen>
+    <dimen name="one_and_a_half_grid_units">12dp</dimen>
+    <dimen name="two_grid_units">16dp</dimen>
+    <dimen name="nine_grid_units">72dp</dimen>
+
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+
+    <dimen name="app_bar_height">@dimen/two_grid_units</dimen>
+    <dimen name="fab_margin">@dimen/two_grid_units</dimen>
+    <dimen name="text_margin">@dimen/two_grid_units</dimen>
+</resources>
